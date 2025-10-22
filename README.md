@@ -2,7 +2,6 @@
 
 Sou um estudante de Engenharia da Computação, natural do interior do Mato Grosso, cheio de ideias, aficionado por tecnologias imersivas e disruptivas, empreendedorismo e educação.
 
-![Foto de Nicolas](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0dd7571-32c1-4c75-85a0-a2bf2f72e500/Foto_de_Nicolas.png)
 
 ## ☎️ Contato
 
@@ -13,8 +12,6 @@ Sou um estudante de Engenharia da Computação, natural do interior do Mato Gros
 
 ## 📚 Formação Profissional
 
-![UFMT Logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4027114-4800-46f1-9d3a-c906c4bf28c0/Untitled.png)  
-![IFMT Logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5eb9798-3375-45cd-86d2-cc28c733ddaa/campo_novo_do_parecis_instituto_federal_mato_grosso_rgb_vertical.png)
 
 ### Bacharelado em Engenharia da Computação
 Abril de 2022 - Dezembro de 2026  
@@ -134,9 +131,6 @@ Participação em maratona de 36 horas para desenvolver sistema de controle de p
 
 ### FireTheBox
 Startup EdTech para democratizar o empreendedorismo. Parcerias com UNISUAM, Poli-USP e UFPE. Apoio a startups em eventos como Campus Party e Rec'n'Play.  
-![Campus Party](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54486b59-4019-40c7-bf68-e5de1f19fbae/69ed1178-342e-4820-8dcc-c8d7310bcc19.jpg)  
-![Rec'n'Play](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a04b3d7c-1a53-465b-ac25-de8ccd1713a2/c6e3d926-370c-44c1-9e3a-1085e5231e2b_(1).jpg)  
 Participação na Rio Innovation Week.  
-![Rio Innovation Week](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/400f3c55-812f-4870-8b1b-2ce4aea7a4a2/Untitled.png)
 
 Sinta-se à vontade para entrar em contato ou explorar meus repositórios! 🚀
